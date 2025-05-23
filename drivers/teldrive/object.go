@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/AliciaLEO/alist-pro/v3/internal/model"
-	"github.com/AliciaLEO/alist-pro/v3/pkg/utils"
+	"github.com/AliciaLEO/alist-org/alist/v3/internal/model"
+	"github.com/AliciaLEO/alist-org/alist/v3/pkg/utils"
 )
 
 // Object TelDrive对象结构体

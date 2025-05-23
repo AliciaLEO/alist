@@ -15,10 +15,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AliciaLEO/alist-pro/v3/internal/driver"
-	"github.com/AliciaLEO/alist-pro/v3/internal/errs"
-	"github.com/AliciaLEO/alist-pro/v3/internal/model"
-	"github.com/AliciaLEO/alist-pro/v3/pkg/utils"
+	"github.com/AliciaLEO/alist-org/alist/v3/internal/driver"
+	"github.com/AliciaLEO/alist-org/alist/v3/internal/errs"
+	"github.com/AliciaLEO/alist-org/alist/v3/internal/model"
+	"github.com/AliciaLEO/alist-org/alist/v3/pkg/utils"
 	"github.com/go-resty/resty/v2"
 	"github.com/google/uuid"
 )
